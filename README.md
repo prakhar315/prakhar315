@@ -2,8 +2,6 @@
 <h3 align="center">On a mission to turn coffee into code.</h3>
 <img align = "right" alt="coding" width="400" src="https://lh3.googleusercontent.com/proxy/X8vDJyMfkVQSswvNSOzBYkU8Fca8gmys6Q55dlI9e3eldUVQgIkU215uw2DlR7nOyIu-VCsejk4o7gRkyr_QNTaEQUdrxvnuKrknzz3T7i4JRWZzfbnicg8S">
 
-- 🔭 I’m currently working on [Monte Carlo Simulation](https://github.com/prakhar315/Monte_Carlo)
-
 - 🌱 I’m currently learning **Mysql, System Design, Advance Mathematics**
 
 - 📫 How to reach me **Prakhar.crx@gmail.com**
